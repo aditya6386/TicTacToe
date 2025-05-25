@@ -26,21 +26,7 @@ New categories can easily be added via a simple configuration array in script.js
 🫥 “Vanishing” Feature
 To increase difficulty and excitement, each emoji vanishes after 1.5 seconds if not clicked.
 
-How it works:
-
-On rendering, each emoji element is assigned a timer:
-setTimeout(() => {
-  emojiElement.classList.add("vanish");
-}, 1500);
-
-
 The .vanish CSS class fades out the emoji with a transition and then removes it:
-
-.vanish {
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.3s ease;
-}
 
 This creates a fast-paced environment where reflexes and memory matter!
 
