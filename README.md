@@ -48,5 +48,5 @@ Refactor into a modular ES6 or React-based component structure for scalability.
 🧠 Summary
 Emoji Battle Game is a fun and fast-paced way to test speed and memory. Built with JavaScript, it showcases interactive front-end development, timed DOM updates, dynamic UI rendering, and gamified UX features.
 ##Try it Online
-[myemojigame](myemojigame.netlify.app)
+([myemojigame.netlify.app](https://aditya6386.github.io/TicTacToe/))
 
